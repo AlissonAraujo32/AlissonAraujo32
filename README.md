@@ -7,8 +7,8 @@
 
 Sou Front End Developer :smile:
 
-Gosto de programar, Estou no inicio dessa jornada e espero ser um excelente programador.
-
+Gosto de programar, me dedicando ao maxímo para ser um excelente programador.
+https://apresentacao-two.vercel.app/
 ## My specialties:
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
